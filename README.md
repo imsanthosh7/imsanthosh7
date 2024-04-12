@@ -7,7 +7,7 @@ I'm a frontend developer passionate about crafting beautiful and functional user
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
 
 
 
