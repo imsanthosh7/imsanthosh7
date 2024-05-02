@@ -1,8 +1,8 @@
 
-<h1 align="center">Hello, I'm Santhosh👋</h1>
+# Hello, I'm Santhosh👋
 
 
-<p align="center">I'm a frontend developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.</p>
+<p>I'm a frontend developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.</p>
 <br/>
 
 ### 🧑‍💻Skills:
