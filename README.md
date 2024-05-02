@@ -3,7 +3,6 @@
 
 
 <p>I'm a frontend developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.</p>
-<br/>
 
 ### 🧑‍💻Skills:
 
