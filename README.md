@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=700&color=7F27FF&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Santhosh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=4000&pause=700&color=7F27FF&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Santhosh">
 </h1>
 
 
@@ -12,8 +12,6 @@
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
 </div>
-<br>
-
 
 <div align="center"> 
 <h2>🌐Socials</h2>
@@ -24,7 +22,7 @@
      <img width="110px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
   </a>
 </div>
-<br>
+
 <div align=center>
   <h2>📈GitHub Stats</h2>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=imsanthosh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats"/>
