@@ -1,22 +1,39 @@
 
-# Hello, I'm Santhosh👋
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=700&color=7F27FF&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Santhosh">
+</h1>
 
 
-<p>I'm a frontend developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.</p>
+<p align="center">I'm a frontend developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.</p>
 
-### 🧑‍💻Skills:
+<div align="center">
+  <h2>🧑‍💻Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
+</div>
+<br>
 
 
+<div align="center"> 
+<h2>🌐Socials</h2>
+ <a href="https://www.linkedin.com/in/santhosh-m-07a376267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img width="100px"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/imsantho.sh?igsh=bXkyeWdqZTFpa3U3" target="_blank">
+     <img width="110px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
+<br>
+<div align=center>
+  <h2>📈GitHub Stats</h2>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=imsanthosh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=imsanthosh7&theme=dark&hide_border=false" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsanthosh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+</div>
 
-### 🌐Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhosh-m-07a376267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/imsantho.sh?igsh=bXkyeWdqZTFpa3U3) 
 
-### 📈GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=imsanthosh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imsanthosh7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imsanthosh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
