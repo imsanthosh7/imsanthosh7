@@ -1,4 +1,4 @@
-<a align="left" href="https://visitcount.itsvg.in">
+<a align="right" href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=imsanthosh7&label=Profile%20Views&color=12&pretty=false" />
 </a>
 
