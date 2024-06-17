@@ -14,7 +14,7 @@
 <div align="center">
   <h2>🧑‍💻Skills</h2>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react)](https://skillicons.dev)
 </div>
 
 <div align="center"> 
