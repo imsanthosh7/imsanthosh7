@@ -1,5 +1,5 @@
-<a align="right" href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=imsanthosh7&label=Profile%20Views&color=12&pretty=false" />
+<a href="https://visitcount.itsvg.in">
+  <img align="right" src="https://visitcount.itsvg.in/api?id=imsanthosh7&label=Profile%20Views&color=12&pretty=false" />
 </a>
 
 <h1 align="center">
