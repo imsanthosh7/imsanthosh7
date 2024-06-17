@@ -1,6 +1,9 @@
 <a href="https://visitcount.itsvg.in">
   <img align="right" src="https://visitcount.itsvg.in/api?id=imsanthosh7&label=Profile%20Views&color=8&pretty=false" />
 </a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=imsanthosh7&label=Profile%20Views&color=12&icon=8&pretty=false" />
+</a>
 <br/>
 
 <h1 align="center">
