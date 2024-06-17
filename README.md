@@ -1,4 +1,6 @@
-
+<a align="left" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=imsanthosh7&label=Profile%20Views&color=12&pretty=false" />
+</a>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=4000&pause=700&color=B15EFF&center=true&vCenter=true&random=false&width=435&lines=Hey+There!👋🏼;I'm+Santhosh">
