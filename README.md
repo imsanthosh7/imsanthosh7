@@ -12,7 +12,7 @@
 <p align="center">I'm a frontend developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.</p>
 
 <div align="center">
-  <h2>🧑‍💻Skills</h2>
+  <h2>🧑‍💻Tech Stacks</h2>
 
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react)](https://skillicons.dev)
 </div>
