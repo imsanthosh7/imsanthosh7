@@ -14,7 +14,7 @@
 <div align="center">
   <h2>🧑‍💻Tech Stacks</h2>
 
- <img width="460px" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,git,github" />
+ <img width="460px" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,git,github,vercel" />
 </div>
 
 <div align="center"> 
