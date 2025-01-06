@@ -20,7 +20,7 @@
 <div align="center"> 
 <h2>🌐Socials</h2>
  <a href="https://www.linkedin.com/in/santhosh-m-07a376267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img width="100px"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
+    <img width="100px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.instagram.com/imsantho.sh?igsh=bXkyeWdqZTFpa3U3" target="_blank">
      <img width="110px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
