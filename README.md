@@ -1,9 +1,3 @@
-
-<a href="https://visitcount.itsvg.in">
-  <img align="right" src="https://visitcount.itsvg.in/api?id=imsanthosh7&label=Profile%20Views&color=12&icon=8&pretty=false" />
-</a>
-<br/>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=40&duration=4000&pause=700&color=B15EFF&center=true&vCenter=true&random=false&width=435&lines=Hey+There!👋🏼;I'm+Santhosh">
 </h1>
