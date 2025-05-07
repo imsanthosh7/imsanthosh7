@@ -8,7 +8,7 @@
 <div align="center">
   <h2>🧑‍💻Tech Stacks</h2>
 
- <img width="460px" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,mongodb,vite,git,github,cloudflare" />
+ <img width="460px" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,mongodb,nodejs,expressjs" />
 </div>
 
 <div align="center"> 
