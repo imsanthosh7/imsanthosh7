@@ -16,7 +16,7 @@
     <img width="40px" src="https://s.magecdn.com/social/tc-linkedin.svg" target="_blank" />
   </a>
   <a href="https://www.instagram.com/santho.webdev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank">
-     <img width="110px" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank" />
+     <img width="40px" src="https://s.magecdn.com/social/tc-instagram.svg" target="_blank" />
   </a>
 </div>
 
