@@ -25,7 +25,7 @@ I'm a web developer passionate about crafting beautiful and functional user inte
 
 | 🌐 Website | 💼 LinkedIn | ⚫️ X | 📸 Instagram | 📧 Email |
 | :----------: | :--------: | :--------: | :-------: | :------: |
-| [santhoshh.in](https://www.santhoshh.in/) | [in/imsanthosh7](linkedin.com/in/imsanthosh7) | [@Santhoshmani07](https://x.com/Santhoshmani07) | [@santhosh.here._](https://www.instagram.com/santhosh.here._/) | [santhoshmani6289@gmail.com](mailto:santhoshmani6289@gmail.com) |
+| [santhoshh.in](https://www.santhoshh.in/) | [in/imsanthosh7](https://www.linkedin.com/in/imsanthosh7/) | [@Santhoshmani07](https://x.com/Santhoshmani07) | [@santhosh.here._](https://www.instagram.com/santhosh.here._/) | [santhoshmani6289@gmail.com](mailto:santhoshmani6289@gmail.com) |
 
 ---
 
