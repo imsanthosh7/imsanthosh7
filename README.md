@@ -1,4 +1,4 @@
-# Hi, I’m Santhosh 👋
+# Hi, I’m Santhosh👋🏼
 
 I'm a web developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.
 
