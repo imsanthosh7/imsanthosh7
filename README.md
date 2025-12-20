@@ -6,7 +6,7 @@ I'm a web developer passionate about crafting beautiful and functional user inte
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** JavaScript (ES6+), TypeScrip, React, Next.js  
+- **Languages & Frameworks:** HTML, JavaScript (ES6+), React.js  
 - **Styling & Design:** CSS3, Bootstrap, Tailwind CSS
 - **Backend & Tools:** Node.js, Express, Firebase, MongoDB, Git  
 ---
