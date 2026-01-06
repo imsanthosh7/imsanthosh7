@@ -12,11 +12,9 @@ I'm a web developer passionate about crafting beautiful and functional user inte
 ---
 
 <div align="start">
-  <h2>📈GitHub Stats</h2>
-  <img width=354 src="https://github-readme-stats.vercel.app/api?username=imsanthosh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="streak stats"/>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=imsanthosh7&theme=dark&hide_border=false" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsanthosh7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
+<p><h2 style="text-decoration: none; cursor: none;">📈  <span style="color: #00c2e0">Github Graph:</span></h2></p>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=imsanthosh7&bg_color=02011e&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)
 </div>
 
 ---
