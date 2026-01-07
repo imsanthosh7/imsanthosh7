@@ -15,7 +15,7 @@ I'm a web developer passionate about crafting beautiful and functional user inte
 
 ## 📈 Github Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=imsanthosh7&bg_color=010409&color=ffffff&line=37ff00&point=ffffff&area=true&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=imsanthosh7&bg_color=010409&color=ffffff&line=b9ed2a&point=ffffff&area=true&hide_border=true&area_color=ceed78)
 </div>
 
 ---
